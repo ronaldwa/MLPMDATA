@@ -1,4 +1,4 @@
-iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;attacktype2;attacktype3;targtype1;natlty1;targtype2;natlty2;targtype3;natlty3;gname;gname2;gname3;weaptype1;weaptype2;weaptype3;weapsubtype3;weaptype4;nkill;nkillus;nkillter;nwound;nwoundus;nwoundte
+ï»¿iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;attacktype2;attacktype3;targtype1;natlty1;targtype2;natlty2;targtype3;natlty3;gname;gname2;gname3;weaptype1;weaptype2;weaptype3;weapsubtype3;weaptype4;nkill;nkillus;nkillter;nwound;nwoundus;nwoundte
 2009;1;1;182;11;Banaadir;Mogadishu;2,059819;45,326115;3;;;14;182;;;;;Al-Shabaab;;;6;;;;;8;0;0;10;0;0
 2009;1;1;95;10;Nineveh;Mosul;36,354145;43,14357;2;;;14;95;;;;;Unknown;;;5;;;;;1;0;0;0;0;0
 2009;1;1;95;10;Kirkuk;Kirkuk;35,45211;44,375465;3;;;3;95;;;;;Unknown;;;6;;;;;0;0;;0;0;
@@ -292,7 +292,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2009;1;21;4;6;Baghlan;Baghlan;36,177311;68,752136;3;;;14;4;;;;;Unknown;;;6;;;;;1;0;1;7;0;0
 2009;1;21;160;5;Davao Oriental;Mati;6,952799;126,221104;7;;;1;153;;;;;New People's Army (NPA);;;8;;;;;0;0;0;0;0;0
 2009;1;22;92;6;Bihar;Domba;25,096074;85,313119;7;;;1;92;;;;;Communist Party of India - Maoist (CPI-Maoist);;;8;;;;;0;0;0;0;0;0
-2009;1;22;146;11;Tillab‚ri;Bani Bangou;15,0408;2,705;6;2;;18;199;18;75;18;216;Al-Qaida in the Islamic Maghreb (AQIM);;;5;;;;;1;0;0;0;0;0
+2009;1;22;146;11;Tillabâ€šri;Bani Bangou;15,0408;2,705;6;2;;18;199;18;75;18;216;Al-Qaida in the Islamic Maghreb (AQIM);;;5;;;;;1;0;0;0;0;0
 2009;1;22;92;6;Manipur;Imphal;24,798346;93,94043;3;;;8;92;;;;;Kangleipak Communist Party (KCP);;;6;;;;;0;0;0;0;0;0
 2009;1;22;92;6;Assam;Nalbari;26,444112;91,44136;3;;;19;92;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2009;1;22;92;6;Orissa;Karkatpalli;18,18151;81,948026;2;4;;14;92;;;;;Communist Party of India - Maoist (CPI-Maoist);;;5;;;;;1;0;0;0;0;0
@@ -401,7 +401,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2009;1;31;4;6;Herat;Gozarah;34,348889;63,177778;4;6;;1;4;1;4;;;Taliban;;;5;;;;;0;0;0;0;0;0
 2009;1;31;4;6;Nangarhar;Chaparhar;34,276094;70,360248;3;;;1;4;;;;;Unknown;;;6;;;;;0;0;0;2;0;0
 2009;1;31;4;6;Wardak;Ambokhak;34,145833;68,733333;1;;;2;4;;;;;Taliban;;;6;;;;;0;0;0;0;0;0
-2009;1;31;6;10;Bou‹ra Province;Aomar;36,494423;3,773677;3;;;4;6;;;;;Unknown;;;6;;;;;0;0;0;;0;0
+2009;1;31;6;10;Bouâ€¹ra Province;Aomar;36,494423;3,773677;3;;;4;6;;;;;Unknown;;;6;;;;;0;0;0;;0;0
 2009;2;1;94;10;Babil;Hillah;32,469238;44,416637;3;;;14;94;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2009;2;1;95;10;Baghdad;Baghdad;33,3;44,4;3;;;17;95;;;;;Unknown;;;6;;;;;0;;0;2;;0
 2009;2;1;95;10;Nineveh;Mosul;36,354145;43,14357;3;;;14;95;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
@@ -585,7 +585,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2009;2;15;92;6;Bihar;Sheohar;26,514473;85,294216;3;;;3;92;;;;;Communist Party of India - Maoist (CPI-Maoist);;;6;;;;;0;0;0;0;0;0
 2012;7;13;153;6;Balochistan;Kuchlak;30,354935;66,944313;3;;;14;153;;;;;Tehrik-i-Taliban Pakistan (TTP);;;6;;;;;7;0;0;10;0;0
 2012;6;24;153;6;Khyber Pakhtunkhwa;Upper Dir district;35,165524;72,046816;6;2;;4;153;;;;;Tehrik-i-Taliban Pakistan (TTP);;;5;9;;;;27;0;14;;0;
-2009;2;15;6;10;BoumerdŠs Province;Bordj Menail;36,741667;3,723056;2;;;4;6;;;;;Rebels;;;5;;;;;3;0;0;0;0;0
+2009;2;15;6;10;BoumerdÅ s Province;Bordj Menail;36,741667;3,723056;2;;;4;6;;;;;Rebels;;;5;;;;;3;0;0;0;0;0
 2009;2;15;167;9;Ingushetia;Nazran;43,2267;44,770569;3;;;14;167;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2009;2;15;4;6;Kandahar;Kandahar;31,631083;65,742226;3;;;20;;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2009;2;15;95;10;Baghdad;Baghdad;33,303566;44,371773;3;;;14;91;;;;;Unknown;;;6;;;;;1;;0;4;;0
@@ -747,7 +747,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2009;3;1;4;6;Farah;Lash-e Joveyn;31,717991;61,626789;7;6;;1;4;;;;;Unknown;;;8;;;;;0;0;0;0;0;0
 2009;3;1;92;6;Bihar;Ratanpur;25,314437;86,542191;7;;;19;92;;;;;Communist Party of India - Maoist (CPI-Maoist);;;8;;;;;0;0;0;0;0;0
 2009;3;1;160;5;Davao del Sur;Paquibato;7,371271;125,49612;7;;;16;160;;;;;New People's Army (NPA);;;8;;;;;0;0;0;0;0;0
-2009;3;2;6;10;B‚ja‹a Province;Djebla;36,802778;4,746667;3;;;4;6;14;6;;;Unknown;;;6;;;;;2;0;0;0;0;0
+2009;3;2;6;10;Bâ€šjaâ€¹a Province;Djebla;36,802778;4,746667;3;;;4;6;14;6;;;Unknown;;;6;;;;;2;0;0;0;0;0
 2009;3;2;153;6;Balochistan;Pishin;30,583332;66,996513;3;;;2;153;;;;;Unknown;;;6;;;;;6;0;1;12;0;0
 2009;3;2;160;5;Compostela Valley;Pantukan;7,249716;126,157319;7;;;16;160;;;;;New People's Army (NPA);;;8;;;;;0;0;0;0;0;0
 2009;3;2;160;5;Laguna;Cabuyao;14,278332;121,124742;2;;;1;160;;;;;Unknown;;;5;;;;;1;0;0;0;0;0
@@ -1266,8 +1266,8 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2009;4;9;4;6;Helmand;Lashkar Gah;31,60063;64,369652;3;;;3;4;;;;;Taliban;;;6;;;;;11;0;1;17;0;0
 2009;4;9;229;11;North Kivu;Kiwanja;-1,15011;29,426639;2;;;3;229;7;229;;;Democratic Front for the Liberation of Rwanda (FDLR);;;5;;;;;0;0;0;0;0;0
 2009;4;8;6;10;Bouira Province;Lakhdaria;36,562222;3,594444;3;;;3;6;;;;;Unknown;;;6;;;;;1;0;0;0;0;0
-2009;4;9;6;10;BoumerdŠs Province;Timezrit;36,609351;4,780351;3;;;3;6;;;;;Unknown;;;6;;;;;1;0;0;3;0;0
-2009;4;9;6;10;T‚bessa Province;Ras Skoura;34,848248;7,866552;3;;;3;6;14;6;;;Unknown;;;6;;;;;1;0;0;2;0;0
+2009;4;9;6;10;BoumerdÅ s Province;Timezrit;36,609351;4,780351;3;;;3;6;;;;;Unknown;;;6;;;;;1;0;0;3;0;0
+2009;4;9;6;10;Tâ€šbessa Province;Ras Skoura;34,848248;7,866552;3;;;3;6;14;6;;;Unknown;;;6;;;;;1;0;0;2;0;0
 2009;4;10;160;5;Sultan Kudarat;Kalamansig;6,553544;124,051706;3;;;1;160;;;;;Moro Islamic Liberation Front (MILF);Jemaah Islamiya (JI);;6;;;;;0;0;0;0;0;0
 2009;4;10;153;6;Federally Administered Tribal Areas;North Waziristan district;32,974638;70,14558;2;;;14;153;;;;;Unknown;;;5;;;;;2;0;0;0;0;0
 2009;4;10;153;6;Federally Administered Tribal Areas;North Waziristan district;32,974638;70,14558;9;;;14;4;;;;;Unknown;;;13;;;;;1;0;0;0;0;0
@@ -1436,7 +1436,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2009;4;21;92;6;Jharkhand;Narayanpur;24,04573;86,614492;3;;;8;92;;;;;Communist Party of India - Maoist (CPI-Maoist);;;6;;;;;0;0;0;0;0;0
 2009;4;21;92;6;Jharkhand;Narayanpur;24,04573;86,614492;3;;;8;92;;;;;Communist Party of India - Maoist (CPI-Maoist);;;6;;;;;0;0;0;0;0;0
 2009;4;21;92;6;Bihar;Motihari;26,650186;84,916678;3;;;2;92;;;;;Communist Party of India - Maoist (CPI-Maoist);;;6;;;;;0;0;0;0;0;0
-2009;4;21;6;10;BoumerdŠs Province;Beni Amrane;36,666095;3,588863;3;;;4;6;14;6;;;Unknown;;;6;;;;;1;0;0;2;0;0
+2009;4;21;6;10;BoumerdÅ s Province;Beni Amrane;36,666095;3,588863;3;;;4;6;14;6;;;Unknown;;;6;;;;;1;0;0;2;0;0
 2009;4;21;92;6;Manipur;Nambol;24,716345;93,834572;3;;;2;92;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2009;4;21;92;6;Manipur;Imphal;24,798346;93,94043;3;;;1;92;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2009;4;22;95;10;Kirkuk;Kirkuk;35,45211;44,375465;6;;;2;95;;;;;Unknown;;;5;;;;;0;0;0;0;0;0
@@ -1634,7 +1634,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2009;5;5;182;11;Banaadir;Mogadishu;2,059819;45,326115;2;;;2;182;;;;;Unknown;;;5;;;;;1;0;0;4;0;0
 2009;5;5;74;7;South Ossetia;Bagiata;42,507664;44,076154;3;;;20;74;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2009;5;5;4;6;Farah;Bala Baluk district;32,625149;62,479768;2;;;14;4;;;;;Taliban;;;5;;;;;3;0;0;0;0;0
-2009;5;5;6;10;BoumerdŠs Province;Ihassamen;36,72051;3,829882;3;;;4;6;14;6;;;Unknown;;;6;;;;;0;0;0;3;0;0
+2009;5;5;6;10;BoumerdÅ s Province;Ihassamen;36,72051;3,829882;3;;;4;6;14;6;;;Unknown;;;6;;;;;0;0;0;3;0;0
 2009;5;6;4;6;Baghlan;Dahana-i-Ghuri;35,900577;68,483215;1;;;2;4;;;;;Taliban;;;5;;;;;5;0;0;0;0;0
 2009;5;6;95;10;Baghdad;Baghdad;33,303566;44,371773;3;;;1;95;;;;;Unknown;;;6;;;;;0;0;0;8;0;0
 2009;5;6;95;10;Baghdad;Baghdad;33,303566;44,371773;3;;;1;95;;;;;Unknown;;;6;;;;;10;0;1;37;0;0
@@ -1663,7 +1663,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2009;5;8;92;6;West Bengal;Asansol;23,687114;86,97355;3;2;7;2;92;;;;;Communist Party of India - Maoist (CPI-Maoist);;;6;5;;;;1;0;0;0;0;0
 2009;5;9;92;6;Assam;Dimasa Gaon;26,033133;93,205826;7;2;;14;92;;;;;Citizen's Rights Protection Volunteers;;;8;;;;;3;0;0;;0;0
 2009;5;9;153;6;Balochistan;Hub;25,044537;66,874672;3;;;1;153;14;153;;;Unknown;;;6;;;;;0;0;0;5;0;0
-2009;5;9;6;10;BoumerdŠs Province;Ihassamen;36,72051;3,829882;3;;;4;6;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
+2009;5;9;6;10;BoumerdÅ s Province;Ihassamen;36,72051;3,829882;3;;;4;6;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2009;5;9;160;5;Capiz;San Esteban;11,501347;123,023357;2;;;14;160;;;;;Unknown;;;5;;;;;1;0;0;0;0;0
 2009;5;9;160;5;Negros Oriental;Amlan;9,470269;123,204934;2;;;14;160;;;;;New People's Army (NPA);;;5;5;;;;0;0;0;1;0;0
 2009;5;9;186;6;Northern;Mullaitivu;9,267091;80,814248;2;;;14;186;;;;;Liberation Tigers of Tamil Eelam (LTTE);;;5;;;;;9;0;0;19;0;0
@@ -1799,7 +1799,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2009;5;17;95;10;Baghdad;Baghdad;33,303566;44,371773;3;;;1;95;;;;;Unknown;;;6;;;;;0;0;0;5;0;0
 2009;5;17;95;10;Baghdad;Baghdad;33,303566;44,371773;3;;;1;95;;;;;Unknown;;;6;;;;;4;0;;12;0;
 2009;5;17;6;10;Tebessa Province;El Hodh Esseghir;35,699462;8,046773;3;;;14;6;20;6;;;Unknown;;;6;;;;;0;0;0;0;0;0
-2009;5;16;6;10;BoumerdŠs Province;Ammal;36,634712;3,590419;3;;;14;6;3;6;;;Unknown;;;6;;;;;1;0;0;2;0;0
+2009;5;16;6;10;BoumerdÅ s Province;Ammal;36,634712;3,590419;3;;;14;6;3;6;;;Unknown;;;6;;;;;1;0;0;2;0;0
 2009;5;17;95;10;Diyala;Mansuriyah;33,758388;44,396591;3;;;17;95;;;;;Unknown;;;6;;;;;0;0;0;1;0;0
 2009;5;17;4;6;Farah;;32,495328;62,262663;2;;;2;4;;;;;Taliban;;;5;;;;;0;0;0;1;0;0
 2009;5;17;4;6;Kabul;Kabul;34,516895;69,147011;3;;;1;4;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
@@ -2009,7 +2009,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2009;6;1;217;1;Arkansas;Little Rock;34,757116;-92,380745;2;;;4;217;;;;;Jihadi-inspired extremists;;;5;;;;;1;1;0;1;1;0
 2009;6;2;205;5;Narathiwat;Ra-ngae;6,254153;101,729605;2;;;8;205;;;;;Unknown;;;5;;;;;2;0;0;2;0;0
 2009;6;2;153;6;North-West Frontier Province;Kohat;33,590603;71,44062;3;;;19;153;;;;;Unknown;;;6;;;;;2;0;0;18;0;0
-2009;6;2;6;10;BoumerdŠs Province;Timezrit;36,672703;3,809529;3;2;;8;6;3;6;;;Al-Qaida in the Islamic Maghreb (AQIM);;;6;5;;;;10;0;0;2;0;0
+2009;6;2;6;10;BoumerdÅ s Province;Timezrit;36,672703;3,809529;3;2;;8;6;3;6;;;Al-Qaida in the Islamic Maghreb (AQIM);;;6;5;;;;10;0;0;2;0;0
 2009;6;2;4;6;Parwan;Sayadan;35;69,233333;3;;;14;4;;;;;Taliban;Hizb-I-Islami;;6;;;;;7;0;1;1;0;0
 2009;6;2;4;6;Takhar;Taloqan;36,733459;69,537758;3;;;14;4;;;;;Unknown;;;6;;;;;0;0;0;2;0;0
 2009;6;2;153;6;North-West Frontier Province;Shangla district;34,793956;72,775814;3;;;14;153;;;;;Unknown;;;6;;;;;0;0;0;3;0;0
@@ -2395,7 +2395,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2009;6;28;95;10;Diyala;Khanaqin;34,347343;45,383274;3;;;14;95;;;;;Unknown;;;6;;;;;1;0;0;3;0;0
 2009;6;28;45;3;Guaviare;El Capricho;2,35305;-72,83189;3;2;6;2;45;;;;;Revolutionary Armed Forces of Colombia (FARC);;;6;5;;;;0;0;0;1;0;0
 2009;6;28;95;10;Al Anbar;Ramadi;33,420948;43,295662;3;;;2;95;;;;;Unknown;;;6;;;;;1;0;0;1;0;0
-2009;6;28;6;10;Bouira Province;IssiouŠne;36,371977;3,897403;3;;;19;6;1;44;;;Unknown;;;6;;;;;0;0;0;0;0;0
+2009;6;28;6;10;Bouira Province;IssiouÅ ne;36,371977;3,897403;3;;;19;6;1;44;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2009;6;30;6;10;Khenchela Province;Chechar;35,038324;7,008026;3;;;4;6;;;;;Unknown;;;6;;;;;1;0;0;4;0;0
 2009;6;29;160;5;Maguindanao;Kitango;6,948344;124,44111;3;;;4;160;;;;;Moro Islamic Liberation Front (MILF);;;6;;;;;3;0;1;8;0;0
 2009;6;29;205;5;Narathiwat;Ra-ngae;6,254153;101,729605;2;;;8;205;;;;;Unknown;;;5;;;;;2;0;0;0;0;0
@@ -2563,7 +2563,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2009;7;10;92;6;West Bengal;Chandra;22,462307;87,14846;6;2;;22;92;;;;;Communist Party of India - Maoist (CPI-Maoist);;;13;;;;;2;0;0;0;0;0
 2009;7;10;205;5;Pattani;;6,700696;101,433915;2;;;14;205;;;;;Unknown;;;5;;;;;1;0;0;0;0;0
 2009;7;11;92;6;Manipur;Imphal;24,798346;93,94043;3;;;14;92;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
-2009;7;9;6;10;Tizi Ouzou Province;IssoumathŠne;36,819661;4,428847;3;;;4;6;;;;;Unknown;;;6;;;;;1;0;0;2;0;0
+2009;7;9;6;10;Tizi Ouzou Province;IssoumathÅ ne;36,819661;4,428847;3;;;4;6;;;;;Unknown;;;6;;;;;1;0;0;2;0;0
 2009;7;11;6;10;Tizi Ouzou Province;Azazga;36,74704;4,370063;3;;;4;6;;;;;Unknown;;;6;;;;;0;0;0;6;0;0
 2009;7;11;153;6;Federally Administered Tribal Areas;South Waziristan district;32,320237;69,859741;3;;;14;153;;;;;Unknown;;;6;;;;;0;0;0;1;0;0
 2009;7;11;160;5;Davao Oriental;Pintatagan;7,078169;125,951149;9;;;21;160;;;;;New People's Army (NPA);;;13;;;;;0;0;0;0;0;0
@@ -2943,7 +2943,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2009;8;5;92;6;West Bengal;Chilgora;22,408038;87,381073;6;2;;14;92;;;;;Communist Party of India - Maoist (CPI-Maoist);;;5;;;;;1;0;0;0;0;0
 2009;8;5;167;9;Ingushetia;Nazran;43,2267;44,770569;3;;;14;167;;;;;Unknown;;;6;;;;;1;0;0;3;0;0
 2009;8;6;6;10;Bouira Province;Lakhdaria;36,562222;3,594444;3;;;1;44;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
-2009;8;5;6;10;Tizi Ouzou Province;Beni A‹ssi;36,662321;4,079895;2;;;4;6;;;;;Gunmen;;;5;;;;;0;0;0;1;0;0
+2009;8;5;6;10;Tizi Ouzou Province;Beni Aâ€¹ssi;36,662321;4,079895;2;;;4;6;;;;;Gunmen;;;5;;;;;0;0;0;1;0;0
 2009;8;6;229;11;Orientale;Niangara;3,692178;27,895218;6;;;14;229;;;;;Lord's Resistance Army (LRA);;;13;;;;;100;0;0;0;0;0
 2009;8;6;95;10;Kirkuk;Kirkuk;35,45211;44,375465;3;;;14;95;;;;;Unknown;;;6;;;;;5;0;0;30;0;0
 2009;8;6;95;10;Baghdad;Baghdad;33,303566;44,371773;3;;;14;95;;;;;Islamic State of Iraq (ISI);;;6;;;;;1;0;0;3;0;0
@@ -4080,7 +4080,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2009;11;3;95;10;Nineveh;Mosul;36,354145;43,14357;3;;;2;95;;;;;Unknown;;;6;;;;;0;0;0;3;0;0
 2009;11;3;95;10;Baghdad;Baghdad;33,303566;44,371773;3;;;14;95;;;;;Unknown;;;6;;;;;0;0;0;2;0;0
 2009;11;3;95;10;Diyala;Muqdadiyah;33,953167;44,921906;3;;;21;95;;;;;Unknown;;;6;;;;;0;0;0;2;0;0
-2009;11;4;88;2;Francisco Moraz n;Tegucigalpa;14,0833;-87,2167;3;;;10;88;;;;;Unknown;;;6;;;;;0;0;0;1;0;0
+2009;11;4;88;2;Francisco MorazÂ n;Tegucigalpa;14,0833;-87,2167;3;;;10;88;;;;;Unknown;;;6;;;;;0;0;0;1;0;0
 2009;11;4;88;2;Lempira;Mapaluca;14,029847;-88,615854;1;;;2;88;;;;;Unknown;;;6;5;;;;0;0;0;0;0;0
 2009;11;4;167;9;Ingushetia;Surkhakhi;43,183333;44,9;3;;;3;167;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2009;11;4;92;6;Bihar;Rohe;24,654369;84,950627;3;3;;19;92;;;;;Communist Party of India - Maoist (CPI-Maoist);;;6;;;;;0;0;0;0;0;0
@@ -4097,7 +4097,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2009;11;5;95;10;Babil;Hillah;32,469238;44,416637;3;;;1;95;;;;;Unknown;;;6;;;;;0;0;0;16;0;0
 2009;11;5;95;10;Baghdad;Baghdad;33,303566;44,371773;3;;;14;95;;;;;Unknown;;;6;;;;;0;0;0;2;0;0
 2009;11;5;95;10;Diyala;Sadiyah;34,125729;45,003342;2;;;1;95;;;;;Unknown;;;5;;;;;1;0;0;1;0;0
-2009;11;5;88;2;Francisco Moraz n;Tegucigalpa;14,0833;-87,2167;3;;;14;88;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
+2009;11;5;88;2;Francisco MorazÂ n;Tegucigalpa;14,0833;-87,2167;3;;;14;88;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2009;11;5;182;11;Bari;Bosaso;11,274796;49,179657;2;;;14;182;;;;;Unknown;;;5;;;;;1;0;0;1;0;0
 2009;11;5;182;11;Hiiraan;Beledweyne;4,73538;45,2024;2;;;14;182;;;;;Islamic Party (Somalia);;;5;;;;;3;0;0;2;0;0
 2009;11;5;19;6;Dhaka;Dhaka;23,791275;90,418205;3;;;2;19;;;;;Unknown;;;6;;;;;0;0;0;4;0;0
@@ -4111,7 +4111,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2009;11;5;4;6;Khost;Dwahmande;33,279501;69,598588;3;;;1;4;;;;;Taliban;;;6;;;;;2;0;0;2;0;0
 2009;11;5;217;1;Texas;Killeen;31,13;-97,78;2;;;4;217;;;;;Jihadi-inspired extremists;;;5;;;;;13;13;0;32;31;1
 2009;11;6;229;11;North Kivu;Lubero;-0,151708;29,242865;7;2;;14;229;;;;;Democratic Front for the Liberation of Rwanda (FDLR);;;13;;;;;2;0;0;0;0;0
-2009;11;6;88;2;Francisco Moraz n;Pueblo Nuevo;14,098972;-87,180302;3;;;21;88;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
+2009;11;6;88;2;Francisco MorazÂ n;Pueblo Nuevo;14,098972;-87,180302;3;;;21;88;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2009;11;6;153;6;Federally Administered Tribal Areas;Darra Adam Khel;33,68745;71,516037;4;;;8;153;;;;;Unknown;;;13;;;;;0;0;0;0;0;0
 2009;11;6;92;6;West Bengal;Gopiballavpur;22,209761;86,894348;2;;;2;92;;;;;Communist Party of India - Maoist (CPI-Maoist);;;5;;;;;0;0;0;1;0;1
 2009;11;6;93;5;Aceh;Banda Aceh;5,541471;95,342957;2;;;12;75;;;;;Unknown;;;5;;;;;0;0;0;1;0;0
@@ -4179,7 +4179,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2009;11;12;95;10;Baghdad;Baghdad;33,303566;44,371773;3;;;14;95;;;;;Unknown;;;6;;;;;0;0;0;5;0;0
 2009;11;12;95;10;Baghdad;Baghdad;33,303566;44,371773;3;;;14;95;;;;;Unknown;;;6;;;;;0;0;0;3;0;0
 2009;11;12;95;10;Diyala;Khan Bani Saad;33,571807;44,536067;2;;;17;95;;;;;Unknown;;;5;;;;;2;0;0;0;0;0
-2009;11;12;88;2;Francisco Moraz n;Colonia Miraflores;14,074458;-87,192759;3;;;2;88;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
+2009;11;12;88;2;Francisco MorazÂ n;Colonia Miraflores;14,074458;-87,192759;3;;;2;88;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2009;11;12;4;6;Nangarhar;Khogyani;34,229213;70,193208;3;;;14;4;;;;;Unknown;;;6;;;;;2;0;0;2;0;0
 2009;11;12;153;6;North-West Frontier Province;Hangu;33,528893;71,056122;3;;;14;153;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2009;11;12;153;6;North-West Frontier Province;Peshawar;34,006004;71,53743;2;;;7;94;;;;;Unknown;;;5;;;;;1;0;0;0;0;0
@@ -4294,7 +4294,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2009;11;22;6;10;Boumerdes;Thenia;36,72544;3,55665;3;;;14;6;;;;;Unknown;;;6;;;;;0;0;0;2;0;0
 2009;11;22;603;8;Northern Ireland;Belfast;54,607712;-5,95621;3;;;3;216;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2009;11;22;182;11;Bari;Qardho;9,50506;49,08494;1;;;3;182;;;;;Unknown;;;5;;;;;1;0;0;0;0;0
-2009;11;22;88;2;Francisco Moraz n;Tegucigalpa;14,0833;-87,2167;3;;;15;88;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
+2009;11;22;88;2;Francisco MorazÂ n;Tegucigalpa;14,0833;-87,2167;3;;;15;88;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2009;11;22;41;11;Vakaga;Birao;10,294745;22,781062;6;;;12;69;;;;;Freedom Eagles of Africa;;;5;;;;;0;0;0;0;0;0
 2009;11;22;95;10;Kirkuk;Kirkuk;35,45211;44,375465;1;;;3;95;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2009;11;22;95;10;Baghdad;Baghdad;33,303566;44,371773;3;;;1;95;;;;;Unknown;;;6;;;;;0;0;0;6;0;0
@@ -4343,7 +4343,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2009;11;25;95;10;Baghdad;Baghdad;33,303566;44,371773;3;;;2;95;;;;;Unknown;;;6;;;;;0;0;0;4;0;0
 2009;11;25;95;10;Karbala;Karbala;32,604393;44,007145;3;;;13;95;;;;;Unknown;;;6;;;;;5;0;0;26;0;0
 2009;11;25;95;10;Nineveh;Mosul;36,354145;43,14357;3;;;14;95;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
-2009;11;25;88;2;Francisco Moraz n;Tegucigalpa;14,0833;-87,2167;3;;;2;88;10;88;;;Unknown;;;6;;;;;0;0;0;0;0;0
+2009;11;25;88;2;Francisco MorazÂ n;Tegucigalpa;14,0833;-87,2167;3;;;2;88;10;88;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2009;11;25;123;11;Gao;Menaka;15,914432;2,397368;6;;;12;69;;;;;Al-Qaida in the Islamic Maghreb (AQIM);;;5;;;;;0;0;0;0;0;0
 2009;11;25;167;9;Dagestan;Bashlykent;42,363456;47,891077;3;;;21;167;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2009;11;26;167;9;Dagestan;Makhachkala;42,98542;47,450668;1;;;3;167;;;;;Unknown;;;5;;;;;2;0;1;0;0;0
@@ -4486,7 +4486,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2009;12;11;95;10;Babil;Mahawil;32,654751;44,408989;3;;;9;95;;;;;Unknown;;;6;;;;;0;0;0;1;0;0
 2009;12;11;95;10;Baghdad;Baghdad;33,303566;44,371773;3;;;1;95;;;;;Unknown;;;6;;;;;3;0;0;6;0;0
 2009;12;12;182;11;Hiiraan;Beledweyne;4,73538;45,2024;3;;;12;216;;;;;Hizbul al Islam (Somalia);;;6;;;;;0;0;0;0;0;0
-2009;12;12;6;10;Sidi Bel AbbŠs Province;Oued Taourira;34,80273;-0,3283;2;;;14;6;;;;;Unknown;;;9;;;;;1;0;0;0;0;0
+2009;12;12;6;10;Sidi Bel AbbÅ s Province;Oued Taourira;34,80273;-0,3283;2;;;14;6;;;;;Unknown;;;9;;;;;1;0;0;0;0;0
 2009;12;12;78;8;Central Macedonia;Thessaloniki;40,620663;22,952;7;;;7;78;;;;;Anarchist Action (CA / United States);;;8;;;;;0;0;0;0;0;0
 2009;12;12;95;10;Nineveh;Tal Afar;36,376823;42,448875;3;;;2;95;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2009;12;13;4;6;Logar;Puli Alam;34,021194;68,999535;3;;;14;4;;;;;Unknown;;;6;;;;;0;0;0;2;0;0
@@ -4690,7 +4690,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2009;12;27;153;6;Sindh;Karachi;24,891115;67,143311;3;;;14;153;;;;;Lashkar-e-Jhangvi;;;6;;;;;0;0;0;26;0;0
 2009;12;27;6;10;Tizi Ouzou Province;Taoudouch;36,846693;4,295931;3;;;20;;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2009;12;27;182;11;Gedo;Beled Hawo;3,926858;41,877171;2;;;12;182;;;;;Unknown;;;5;;;;;1;0;0;0;0;0
-2009;12;28;6;10;Bou‹ra Province;Boukrame;36,536433;3,421204;3;;;4;6;;;;;Unknown;;;6;;;;;0;0;0;2;0;0
+2009;12;28;6;10;Bouâ€¹ra Province;Boukrame;36,536433;3,421204;3;;;4;6;;;;;Unknown;;;6;;;;;0;0;0;2;0;0
 2009;12;27;78;8;Attica;Athens;37,99749;23,762728;3;;;2;78;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2009;12;26;45;3;Cundinamarca;Cabrera;3,985581;-74,484205;7;;;19;45;;;;;Revolutionary Armed Forces of Colombia (FARC);;;8;;;;;0;0;0;0;0;0
 2009;12;27;95;10;Kirkuk;Kirkuk;35,45211;44,375465;3;;;14;95;;;;;Unknown;;;6;;;;;4;0;0;19;0;0
@@ -4814,7 +4814,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2010;1;17;4;6;Herat;;34,176874;61,700565;1;;;2;4;;;;;Taliban;;;13;;;;;6;0;0;1;0;0
 2010;1;17;92;6;Bihar;Gaya;24,781467;84,986412;3;;;16;92;;;;;Communist Party of India - Maoist (CPI-Maoist);;;6;;;;;0;0;0;0;0;0
 2010;1;17;92;6;Bihar;Gaya;24,781467;84,986412;7;;;14;92;;;;;Communist Party of India - Maoist (CPI-Maoist);;;8;;;;;0;0;0;0;0;0
-2010;1;17;6;10;B‚ja‹a Province;Beni Toudja;36,749063;4,889638;6;;;14;6;;;;;Unknown;;;13;;;;;0;0;0;0;0;0
+2010;1;17;6;10;Bâ€šjaâ€¹a Province;Beni Toudja;36,749063;4,889638;6;;;14;6;;;;;Unknown;;;13;;;;;0;0;0;0;0;0
 2010;1;17;95;10;Baghdad;Baghdad;33,303566;44,371773;3;;;14;95;;;;;Unknown;;;6;;;;;1;0;0;4;0;0
 2010;1;17;95;10;Nineveh;Mosul;36,354145;43,14357;2;;;14;95;;;;;Unknown;;;5;;;;;1;0;0;0;0;0
 2010;1;17;95;10;Wasit;Kut;32,533287;45,829453;3;;;14;95;;;;;Unknown;;;6;;;;;0;0;0;6;0;0
@@ -4967,8 +4967,8 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2010;1;28;153;6;Balochistan;Jaffarabad district;28,340071;68,188997;3;;;1;153;;;;;Unknown;;;6;;;;;1;0;0;8;0;0
 2010;1;28;153;6;Punjab;Jand;33,432337;72,017474;3;;;1;153;;;;;Unknown;;;6;;;;;0;0;0;6;0;0
 2010;1;28;78;8;Attica;Athens;37,99749;23,762728;7;;;14;78;;;;;Unknown;;;8;;;;;0;0;0;0;0;0
-2010;1;28;6;10;B‚ja‹a Province;Lota;36,625172;5,298243;3;;;19;6;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
-2010;1;30;6;10;B‚ja‹a Province;Lota;36,625172;5,298243;3;;;19;6;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
+2010;1;28;6;10;Bâ€šjaâ€¹a Province;Lota;36,625172;5,298243;3;;;19;6;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
+2010;1;30;6;10;Bâ€šjaâ€¹a Province;Lota;36,625172;5,298243;3;;;19;6;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2010;1;29;153;6;Balochistan;Quetta;30,200819;66,994354;2;;;14;153;;;;;Unknown;;;5;;;;;3;0;0;7;0;0
 2010;1;29;160;5;Zamboanga Sibugay;Zamboanga City;6,929089;122,07885;3;;;14;160;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2010;1;29;160;5;Zamboanga Sibugay;Zamboanga City;6,929089;122,07885;3;;;14;160;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
@@ -5046,7 +5046,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2010;2;3;4;6;Faryab;Dawlatabad;36,420551;64,89389;2;6;;8;4;;;;;Taliban;;;9;5;;;;0;0;0;1;0;0
 2010;2;3;92;6;Jharkhand;Chowka More;22,959166;85,965274;3;;;3;92;;;;;Communist Party of India - Maoist (CPI-Maoist);;;6;;;;;1;0;0;2;0;0
 2010;2;3;92;6;Manipur;Imphal;24,798346;93,94043;2;;;4;92;;;;;People's United Liberation Front (PULF);;;5;;;;;1;0;1;0;0;0
-2010;2;3;11;3;Neuqu‚n;Neuquen;-38,951872;-68,059079;3;;;6;11;;;;;Jacinto Araujo Internationalist Rebel Insurrectionist Brigade;;;6;;;;;0;0;0;0;0;0
+2010;2;3;11;3;Neuquâ€šn;Neuquen;-38,951872;-68,059079;3;;;6;11;;;;;Jacinto Araujo Internationalist Rebel Insurrectionist Brigade;;;6;;;;;0;0;0;0;0;0
 2010;2;3;205;5;Narathiwat;Rusoh;6,384576;101,502075;2;;;14;205;;;;;Unknown;;;5;;;;;1;0;0;0;0;0
 2010;2;4;92;6;Manipur;Imphal;24,798346;93,94043;3;;;14;92;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2010;2;4;4;6;Kandahar;Kandahar;31,631083;65,742226;2;;;2;4;;;;;Unknown;;;5;;;;;1;0;0;0;0;0
@@ -5666,7 +5666,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2010;3;23;92;6;Orissa;Birikota;19,477122;84,096518;3;;;16;92;16;92;;;Communist Party of India - Maoist (CPI-Maoist);;;6;;;;;0;0;0;0;0;0
 2010;3;23;160;5;Laguna;Binan;14,33007;121,076779;2;;;14;160;;;;;Unknown;;;5;;;;;1;0;0;0;0;0
 2010;3;23;92;6;Orissa;Sundargarh district;22,124002;84,043175;3;;;19;92;;;;;Communist Party of India - Maoist (CPI-Maoist);;;6;;;;;0;0;0;0;0;0
-2010;3;23;130;1;Chiapas;Mitzit¢n;16,647497;-92,545467;6;7;;14;130;;;;;Zapatista National Liberation Army;;;13;;;;;0;0;0;0;0;0
+2010;3;23;130;1;Chiapas;MitzitÂ¢n;16,647497;-92,545467;6;7;;14;130;;;;;Zapatista National Liberation Army;;;13;;;;;0;0;0;0;0;0
 2010;3;23;92;6;Bihar;Mahapur;24,605105;84,671527;3;2;;2;92;;;;;Communist Party of India - Maoist (CPI-Maoist);;;6;6;5;5;;2;0;0;;0;0
 2010;3;23;92;6;Bihar;Belsand;26,450211;85,399963;2;;;14;92;3;92;;;Communist Party of India - Maoist (CPI-Maoist);;;5;;;;;0;0;0;6;0;0
 2010;3;23;92;6;Bihar;Kanta Chowk;26,485169;85,315457;7;;;3;92;;;;;Communist Party of India - Maoist (CPI-Maoist);;;8;;;;;0;0;0;0;0;0
@@ -6364,7 +6364,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2010;5;15;205;5;Bangkok;Bangkok;13,727896;100,524124;7;;;1;205;;;;;Unknown;;;8;;;;;0;0;0;0;0;0
 2010;5;15;205;5;Bangkok;Bangkok;13,723419;101,658222;7;;;21;205;;;;;Unknown;;;8;;;;;0;0;0;0;0;0
 2010;5;15;205;5;Bangkok;Bangkok;13,727896;100,524124;7;;;16;205;1;205;;;Unknown;;;11;;;;;0;0;0;0;0;0
-2010;5;13;6;10;Bou‹ra Province;Lakhdaria;36,562222;3,594444;3;;;2;6;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
+2010;5;13;6;10;Bouâ€¹ra Province;Lakhdaria;36,562222;3,594444;3;;;2;6;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2010;5;16;205;5;Pathum thani;Lam Luk Ka;13,964548;100,766163;3;;;1;205;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2010;5;16;160;5;Oriental Mindoro;Calapan;13,409486;121,176028;2;;;2;160;;;;;Unknown;;;5;;;;;1;0;0;0;0;0
 2010;5;16;153;6;Balochistan;Quetta;30,200819;66,994354;2;3;;1;153;;;;;Balochistan Liberation United Front (BLUF);;;5;6;;;;0;0;0;5;0;0
@@ -6434,7 +6434,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2010;5;19;205;5;Bangkok;Bangkok;13,723419;101,658222;7;;;14;205;;;;;United Front for Democracy Against Dictatorship;;;8;;;;;0;0;0;0;0;0
 2010;5;19;205;5;Bangkok;Bangkok;13,723419;101,658222;7;;;1;205;;;;;United Front for Democracy Against Dictatorship;;;8;;;;;0;0;0;0;0;0
 2010;5;19;205;5;Bangkok;Bangkok;13,723419;101,658222;7;;;1;205;;;;;United Front for Democracy Against Dictatorship;;;8;;;;;0;0;0;0;0;0
-2010;5;19;6;10;BoumerdŠs Province;Si Mustapha;36,724419;3,619247;3;;;4;6;14;6;;;Al-Qaida in the Islamic Maghreb (AQIM);;;6;;;;;2;0;0;18;0;0
+2010;5;19;6;10;BoumerdÅ s Province;Si Mustapha;36,724419;3,619247;3;;;4;6;14;6;;;Al-Qaida in the Islamic Maghreb (AQIM);;;6;;;;;2;0;0;18;0;0
 2010;5;19;4;6;Parwan;Bagram Air Field;34,944168;69,273331;3;;;4;422;14;217;;;Taliban;;;6;5;;;;8;1;7;;0;
 2010;5;19;205;5;Chiang Mai;Chiang Mai;18,790977;98,960776;7;;;2;205;;;;;Unknown;;;8;;;;;0;0;0;0;0;0
 2010;5;19;205;5;Chiang Mai;Chiang Mai;18,790977;98,960776;7;;;1;205;;;;;United Front for Democracy Against Dictatorship;;;8;;;;;0;0;0;0;0;0
@@ -6645,7 +6645,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2010;6;5;92;6;Jharkhand;Namkum;23,351452;85,376997;3;;;14;92;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2010;6;5;217;1;Utah;Salt Lake City;40,759505;-111,888229;7;;;1;217;;;;;Animal Liberation Front (ALF);;;8;;;;;0;0;0;0;0;0
 2010;6;5;205;5;Pattani;Nong Chik;6,845294;101,178976;2;;;1;205;;;;;Muslim Separatists;;;5;;;;;3;0;0;1;0;0
-2010;6;6;6;10;B‚ja‹a Province;Darguina;36,564722;5,305833;3;;;14;6;;;;;Unknown;;;6;;;;;2;0;0;1;0;0
+2010;6;6;6;10;Bâ€šjaâ€¹a Province;Darguina;36,564722;5,305833;3;;;14;6;;;;;Unknown;;;6;;;;;2;0;0;1;0;0
 2010;6;6;4;6;Ghazni;Ghazni;33,542622;68,415329;6;;;12;4;;;;;Taliban;;;13;;;;;0;0;0;0;0;0
 2010;6;6;4;6;Nimroz;;31,026149;62,450415;6;2;;3;4;14;4;;;Unknown;;;9;;;;;2;0;0;0;0;0
 2010;6;6;153;6;Federally Administered Tribal Areas;Khar;34,733517;71,519661;3;;;8;153;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
@@ -6864,7 +6864,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2010;6;23;95;10;Diyala;Adhaim;34,239965;44,510157;6;2;;17;95;;;;;Unknown;;;5;;;;;4;0;0;0;0;0
 2010;6;23;4;6;Ghazni;Ghazni;33,542622;68,415329;3;;;2;4;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2010;6;23;4;6;Ghazni;Ghazni;33,542622;68,415329;3;;;2;4;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
-2010;6;23;6;10;A‹n Defla;Bordj Emir Khaled;36,12141;2,205412;3;;;4;6;;;;;Unknown;;;6;;;;;0;0;0;2;0;0
+2010;6;23;6;10;Aâ€¹n Defla;Bordj Emir Khaled;36,12141;2,205412;3;;;4;6;;;;;Unknown;;;6;;;;;0;0;0;2;0;0
 2010;6;23;153;6;Federally Administered Tribal Areas;Darra Adam Khel;33,68745;71,516037;2;6;;2;153;;;;;Unknown;;;5;;;;;1;0;0;0;0;0
 2010;6;23;153;6;Sindh;Karachi;24,891115;67,143311;2;;;14;153;;;;;Unknown;;;5;;;;;1;0;1;0;0;0
 2010;6;23;92;6;Chhattisgarh;Dantewada;18,9;81,35;3;2;;3;92;;;;;Communist Party of India - Maoist (CPI-Maoist);;;5;6;;;;3;0;0;0;0;0
@@ -6890,7 +6890,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2010;6;24;34;11;Gitega;Gitega;-3,427512;29,924253;3;;;2;34;;;;;National Liberation Front (FNL) (Burundi);;;6;;;;;0;0;0;0;0;0
 2010;6;25;95;10;Diyala;Jalawlah;34,271034;45,163567;6;;;2;95;;;;;Unknown;;;5;;;;;0;0;0;0;0;0
 2010;6;25;228;10;Amanat Al Asimah;Sanaa;15,325443;44,211895;1;;;14;228;;;;;Unknown;;;5;;;;;1;0;0;0;0;0
-2010;6;24;6;10;T‚bessa;Ain Ghreb;35,107778;7,413056;2;;;14;6;;;;;Unknown;;;5;;;;;5;0;0;1;0;0
+2010;6;24;6;10;Tâ€šbessa;Ain Ghreb;35,107778;7,413056;2;;;14;6;;;;;Unknown;;;5;;;;;5;0;0;1;0;0
 2010;6;25;153;6;Sindh;Hyderabad;25,389288;68,357338;3;;;19;153;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2010;6;25;153;6;Sindh;Karachi;24,891115;67,143311;3;;;19;153;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2010;6;25;153;6;Sindh;Ghotki;27,859794;69,535337;3;;;19;153;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
@@ -6904,7 +6904,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2010;6;26;4;6;Kabul;Kabul;34,516895;69,147011;3;;;2;4;;;;;Taliban;;;6;;;;;1;0;1;0;0;0
 2010;6;26;92;6;Orissa;Govindpalli;18,578762;82,281954;3;;;3;92;;;;;Communist Party of India - Maoist (CPI-Maoist);;;6;;;;;0;0;0;1;0;0
 2010;6;26;92;6;Orissa;Karmaposh;21,974236;84,984354;3;;;19;92;;;;;Communist Party of India - Maoist (CPI-Maoist);;;6;;;;;0;0;0;0;0;0
-2010;6;26;160;5;Aurora;Casiguran;16,227832;122,064291;2;3;;15;160;;;;;Aniban ng Ayaw sa Komunista (ANAK)ÿ;;;5;6;;;;0;0;0;0;0;0
+2010;6;26;160;5;Aurora;Casiguran;16,227832;122,064291;2;3;;15;160;;;;;Aniban ng Ayaw sa Komunista (ANAK)Ã¿;;;5;6;;;;0;0;0;0;0;0
 2010;6;26;4;6;Uruzgan;Tarin Kot;32,666404;65,903629;1;;;2;4;;;;;Unknown;;;6;;;;;3;0;1;5;0;0
 2010;6;26;153;6;Punjab;Lahore;31,50547;74,34288;3;;;1;153;;;;;Unknown;;;6;;;;;0;0;0;4;0;0
 2010;6;26;45;3;Antioquia;Yarumal;6,962843;-75,416355;3;;;1;45;;;;;Revolutionary Armed Forces of Colombia (FARC);;;6;;;;;0;0;0;0;0;0
@@ -7023,7 +7023,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2010;7;4;167;9;Chechnya;Sernovodsk;43,336555;45,173812;3;;;3;167;;;;;Unknown;;;6;;;;;0;0;0;1;0;0
 2010;7;4;6;10;Tebessa;Gabel Boudhelal;34,780254;8,151512;3;;;14;6;;;;;Unknown;;;6;;;;;2;0;0;2;0;0
 2010;7;4;6;10;Jijel;Ziama Mansouria;36,673564;5,481713;3;;;3;6;;;;;Unknown;;;6;;;;;3;0;0;2;0;0
-2010;7;4;92;6;Kerala;Muvattupuzhaÿ;9,984663;76,583434;2;;;8;92;;;;;Popular Front of India;;;6;9;;;;0;0;0;1;0;0
+2010;7;4;92;6;Kerala;MuvattupuzhaÃ¿;9,984663;76,583434;2;;;8;92;;;;;Popular Front of India;;;6;9;;;;0;0;0;1;0;0
 2010;7;5;182;11;Banaadir;Mogadishu;2,059819;45,326115;2;;;17;182;;;;;Al-Shabaab;;;5;;;;;6;0;6;0;0;0
 2010;7;5;182;11;Banaadir;Mogadishu;2,059819;45,326115;2;;;17;182;;;;;Hizbul al Islam (Somalia);;;5;;;;;2;0;2;0;0;0
 2010;7;5;95;10;Baghdad;Baghdad;33,303566;44,371773;3;;;14;95;;;;;Unknown;;;6;;;;;0;0;0;3;0;0
@@ -7073,7 +7073,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2010;7;8;160;5;Sulu;Bandang;5,977477;121,115016;2;;;14;160;;;;;Abu Sayyaf Group (ASG);;;9;;;;;3;0;0;0;0;0
 2010;7;8;141;6;Western;Kapilvastu;27,5504;83,050023;2;;;1;141;;;;;Samyukta Janatantrik Terai Mukti Morcha (SJTMM);;;5;;;;;1;0;0;0;0;0
 2010;7;8;4;6;Parwan;Razgard;35,014797;68,926808;3;;;7;4;;;;;Unknown;;;6;;;;;3;0;0;1;0;0
-2010;7;8;45;3;Norte de Santander;Oca¤a;8,233812;-73,349693;6;;;2;45;;;;;National Liberation Army of Colombia (ELN);;;13;;;;;0;0;0;0;0;0
+2010;7;8;45;3;Norte de Santander;OcaÂ¤a;8,233812;-73,349693;6;;;2;45;;;;;National Liberation Army of Colombia (ELN);;;13;;;;;0;0;0;0;0;0
 2010;7;8;92;6;Assam;Kokrajhar district;26,398022;90,269415;3;;;19;92;;;;;National Democratic Front of Bodoland (NDFB);;;6;;;;;1;0;0;13;0;0
 2010;7;8;92;6;Chhattisgarh;Kuakonda;18,727528;81,441632;2;;;3;92;;;;;Communist Party of India - Maoist (CPI-Maoist);;;5;;;;;6;0;6;0;0;0
 2010;7;8;92;6;Chhattisgarh;Nakulnar;18,904292;81,346817;1;;;2;92;;;;;Communist Party of India - Maoist (CPI-Maoist);;;6;5;;;;2;0;0;3;0;0
@@ -7096,7 +7096,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2010;7;8;182;11;Banaadir;Mogadishu;2,052013;45,27065;3;;;14;182;;;;;Unknown;;;6;;;;;1;0;0;2;0;0
 2010;7;9;92;6;Chhattisgarh;Bijapur;18,791667;80,816667;3;;;3;92;;;;;Communist Party of India - Maoist (CPI-Maoist);;;6;;;;;0;0;0;0;0;0
 2010;7;9;92;6;Orissa;Koraput district;18,815236;82,712102;2;7;;1;92;1;92;;;Communist Party of India - Maoist (CPI-Maoist);;;8;13;;;;1;0;0;0;0;0
-2010;7;9;45;3;Norte de Santander;Oca¤a;8,233812;-73,349693;6;;;12;45;;;;;National Liberation Army of Colombia (ELN);;;13;;;;;0;0;0;0;0;0
+2010;7;9;45;3;Norte de Santander;OcaÂ¤a;8,233812;-73,349693;6;;;12;45;;;;;National Liberation Army of Colombia (ELN);;;13;;;;;0;0;0;0;0;0
 2010;7;9;4;6;Ghazni;Khwaja Umari;33,691667;68,4025;2;;;2;4;;;;;Unknown;;;5;;;;;1;0;0;0;0;0
 2010;3;31;153;6;Federally Administered Tribal Areas;Orakzai district;33,697271;71,144852;7;3;;8;153;;;;;Tehrik-i-Taliban Pakistan (TTP);;;8;6;;;;0;0;0;0;0;0
 2010;7;9;153;6;Federally Administered Tribal Areas;South Waziristan district;32,320237;69,859741;6;;;4;153;;;;;Unknown;;;5;;;;;0;0;0;0;0;0
@@ -7354,7 +7354,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2010;7;28;95;10;Baghdad;Baghdad;33,303566;44,371773;3;;;1;95;;;;;Unknown;;;6;;;;;5;0;0;13;0;0
 2010;7;28;167;9;Dagestan;Makhachkala;42,98542;47,450668;1;;;3;167;;;;;Unknown;;;6;;;;;1;0;0;0;0;0
 2010;7;28;214;9;Ukraine;Zaporozhye;47,8388;35,139567;3;;;15;214;;;;;Unknown;;;6;;;;;1;0;0;8;0;0
-2010;7;28;6;10;Bordj Bou Arr‚ridj;Ouled Sidi Brahim;36,228108;4,334579;3;;;14;6;;;;;Unknown;;;6;;;;;2;0;0;5;0;0
+2010;7;28;6;10;Bordj Bou Arrâ€šridj;Ouled Sidi Brahim;36,228108;4,334579;3;;;14;6;;;;;Unknown;;;6;;;;;2;0;0;5;0;0
 2010;7;28;6;10;Tizi Ouzou;Ait Yahia Moussa;36,641111;3,888334;2;;;3;6;;;;;Unknown;;;5;;;;;0;0;0;2;0;0
 2010;7;28;215;10;Fujairah;Fujairah;25,412173;56,25297;3;;;11;101;;;;;Abdullah Azzam Brigades;;;6;;;;;0;0;;1;0;0
 2010;7;29;167;9;Kabardino Balkariya;Tyrnyauz;43,4;42,916667;3;;;2;167;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
@@ -7624,7 +7624,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2010;8;19;167;9;Kabardino Balkariya;Elbrus;43,2625;42,6476;2;;;3;167;;;;;Unknown;;;5;;;;;2;0;0;0;0;0
 2010;8;19;95;10;Al Anbar;Fallujah;33,349159;43,784199;3;;;3;95;;;;;Unknown;;;6;;;;;1;0;0;0;0;0
 2010;8;19;95;10;Nineveh;Mosul;36,354145;43,14357;1;;;2;95;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
-2010;8;19;6;10;BoumerdŠs Province;Keniza;;;3;2;;4;6;;;;;Al-Qaida in the Islamic Maghreb (AQIM);;;6;5;;;;3;0;0;2;0;0
+2010;8;19;6;10;BoumerdÅ s Province;Keniza;;;3;2;;4;6;;;;;Al-Qaida in the Islamic Maghreb (AQIM);;;6;5;;;;3;0;0;2;0;0
 2010;8;19;4;6;Farah;Pusht Rod district;32,480918;62,028239;9;;;1;4;;;;;Taliban;;;13;;;;;0;0;0;0;0;0
 2010;8;19;4;6;Helmand;Sangin;32,073333;64,833889;9;;;1;4;3;4;;;Taliban;;;13;;;;;30;0;0;15;0;0
 2010;8;19;153;6;Khyber Pakhtunkhwa;Bannu district;32,925365;70,588379;3;;;14;153;14;153;;;Unknown;;;6;;;;;0;0;0;16;0;0
@@ -7813,7 +7813,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2010;9;1;4;6;Faryab;Dawlatabad;36,420551;64,89389;6;2;;12;4;;;;;Unknown;;;5;;;;;0;0;0;0;0;0
 2010;9;1;4;6;Logar;Baraki Barak;33,969167;68,944722;2;;;14;4;;;;;Taliban;;;5;;;;;1;0;0;0;0;0
 2010;9;1;217;1;Maryland;Silver Spring;38,995508;-77,028075;5;;;10;217;;;;;Unknown;;;6;7;;;;1;1;1;0;0;0
-2010;9;1;6;10;BoumerdŠs Province;Zaatra;36,767847;3,604741;3;;;4;6;;;;;Al-Qaida in the Islamic Maghreb (AQIM);;;6;;;;;3;0;1;9;0;0
+2010;9;1;6;10;BoumerdÅ s Province;Zaatra;36,767847;3,604741;3;;;4;6;;;;;Al-Qaida in the Islamic Maghreb (AQIM);;;6;;;;;3;0;1;9;0;0
 2010;9;2;45;3;Narino;Pupiales;0,905414;-77,629697;3;;;21;45;;;;;Revolutionary Armed Forces of Colombia (FARC);;;6;;;;;0;0;0;0;0;0
 2010;9;2;45;3;Canindeyu;Curuguaty district;-24,472445;-55,696772;2;;;14;45;;;;;Paraguayan People's Army (EPP);;;5;;;;;1;0;0;0;0;0
 2010;9;2;4;6;Baghlan;Borka;36,187977;69,335432;6;;;2;4;;;;;Taliban;;;13;;;;;0;0;0;0;0;0
@@ -7949,7 +7949,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2010;9;8;95;10;Diyala;Baqubah;33,74324;44,623825;1;;;3;95;;;;;Unknown;;;9;;;;;1;0;0;0;0;0
 2010;9;8;95;10;Diyala;Baqubah;33,74324;44,623825;3;;;14;95;;;;;Unknown;;;6;;;;;0;0;0;2;0;0
 2010;9;8;95;10;Nineveh;Mosul;36,354145;43,14357;2;;;10;95;;;;;Unknown;;;5;;;;;1;0;0;0;0;0
-2010;9;5;6;10;BoumerdŠs Province;Ihassamen;36,72051;3,829882;2;;;3;6;4;6;;;Gunmen;;;5;;;;;0;0;0;0;0;0
+2010;9;5;6;10;BoumerdÅ s Province;Ihassamen;36,72051;3,829882;2;;;3;6;4;6;;;Gunmen;;;5;;;;;0;0;0;0;0;0
 2010;9;9;95;10;Baghdad;Baghdad;33,303566;44,371773;2;;;3;95;;;;;Unknown;;;5;;;;;1;0;0;0;0;0
 2010;9;9;95;10;Baghdad;Baghdad;33,303566;44,371773;3;;;1;95;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2010;9;9;95;10;Diyala;Muqdadiyah;33,953167;44,921906;2;7;;15;95;;;;;Islamic State of Iraq (ISI);;;9;8;;;;1;0;0;0;0;0
@@ -7981,7 +7981,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2010;9;11;95;10;Wasit;Kut;32,533287;45,829453;3;;;1;95;;;;;Al-Qaida in Iraq;;;6;;;;;0;0;0;0;0;0
 2010;9;11;92;6;Andhra pradesh;Munchingput;18,086249;82,876668;7;;;19;92;;;;;Communist Party of India - Maoist (CPI-Maoist);;;8;;;;;0;0;0;0;0;0
 2010;9;11;4;6;Kandahar;Arghandab;31,650027;65,650018;6;2;;14;4;;;;;Taliban;;;5;;;;;1;0;0;0;0;0
-2010;9;11;6;10;B‚ja‹a Province;Adekar;36,684583;4,665693;3;;;4;6;;;;;Al-Qaida in the Islamic Maghreb (AQIM);;;6;;;;;0;0;0;2;0;0
+2010;9;11;6;10;Bâ€šjaâ€¹a Province;Adekar;36,684583;4,665693;3;;;4;6;;;;;Al-Qaida in the Islamic Maghreb (AQIM);;;6;;;;;0;0;0;2;0;0
 2010;9;12;92;6;Jharkhand;Panchadumar;24,108456;83,677393;2;;;14;92;;;;;Communist Party of India - Maoist (CPI-Maoist);;;5;;;;;1;0;0;0;0;0
 2010;9;12;92;6;West Bengal;Lalgarh;22,585272;87,049698;2;;;14;92;;;;;Communist Party of India - Maoist (CPI-Maoist);;;5;;;;;0;0;0;1;0;0
 2010;9;12;92;6;West Bengal;West Midnapore district;22,404193;87,379866;2;;;14;92;;;;;Communist Party of India - Maoist (CPI-Maoist);;;5;;;;;5;0;0;1;0;0
@@ -9093,14 +9093,14 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2010;11;26;195;11;South Kordofan;Unknown;11,184142;29,395218;6;;;1;44;;;;;Unknown;;;13;;;;;0;0;0;0;0;0
 2010;11;26;95;10;Baghdad;Baghdad;33,303566;44,371773;3;;;1;95;;;;;Unknown;;;6;;;;;0;0;0;3;0;0
 2010;11;26;6;10;Boumerdes;Cape Djenet;36,875556;3,716944;3;;;3;6;;;;;Unknown;;;6;;;;;0;0;0;2;0;0
-2010;11;25;6;10;T‚bessa;Zarif El Ouar;34,267391;7,724949;3;;;14;6;;;;;Unknown;;;6;;;;;1;0;0;3;0;0
+2010;11;25;6;10;Tâ€šbessa;Zarif El Ouar;34,267391;7,724949;3;;;14;6;;;;;Unknown;;;6;;;;;1;0;0;3;0;0
 2010;11;27;95;10;Baghdad;Baghdad;33,303566;44,371773;1;;;3;95;;;;;Unknown;;;5;;;;;1;0;0;0;0;0
 2010;11;27;95;10;Baghdad;Baghdad;33,303566;44,371773;3;;;14;95;;;;;Unknown;;;6;;;;;1;0;0;3;0;0
 2010;11;27;603;8;Northern Ireland;Antrim;54,713382;-6,216761;3;;;14;233;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2010;11;27;167;9;Dagestan;Kizlyarsky (District);43,983598;47,034992;3;2;;19;167;3;167;;;Unknown;;;6;;;;;1;0;0;0;0;0
 2010;11;27;167;9;Stavropolye Region;Irgakly;44,363714;44,747425;2;7;;2;167;;;;;Unknown;;;8;;;;;1;0;0;0;0;0
 2010;11;27;160;5;Davao Del Sur;Kiagot;6,771603;125,355757;2;;;14;160;;;;;New People's Army (NPA);;;5;;;;;1;0;0;0;0;0
-2010;11;27;6;10;Bordj Bou Arr‚ridj;Haraza;36,080182;4,809036;3;;;3;6;;;;;Unknown;;;6;;;;;2;0;0;0;0;0
+2010;11;27;6;10;Bordj Bou Arrâ€šridj;Haraza;36,080182;4,809036;3;;;3;6;;;;;Unknown;;;6;;;;;2;0;0;0;0;0
 2010;11;27;92;6;Orissa;Brahmangaon;21,814946;84,959777;3;;;1;92;;;;;Communist Party of India - Maoist (CPI-Maoist);;;6;;;;;5;0;0;0;0;0
 2010;11;27;153;6;Sindh;Karachi;24,891115;67,143311;2;;;2;153;;;;;Unknown;;;5;;;;;1;0;0;1;0;0
 2010;11;27;153;6;Sindh;Karachi;24,891115;67,143311;2;;;2;153;;;;;Unknown;;;5;;;;;1;0;0;0;0;0
@@ -9142,7 +9142,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2010;11;29;4;6;Helmand;Lashkar Gah;31,60063;64,369652;3;;;8;4;;;;;Taliban;;;6;;;;;0;0;0;5;0;0
 2010;11;29;4;6;Kabul;Tezin;34,355833;69,555;2;6;;1;4;3;4;;;Taliban;;;5;;;;;0;0;0;1;0;0
 2010;11;29;4;6;Samangan;Darkha;36,086231;67,13695;6;2;;2;4;;;;;Taliban;;;5;;;;;1;0;0;0;0;0
-2010;11;29;6;10;BoumerdŠs;Ouled Ziane;36,58882;3,473738;3;2;;4;6;;;;;Unknown;;;6;5;;;;2;0;2;1;0;0
+2010;11;29;6;10;BoumerdÅ s;Ouled Ziane;36,58882;3,473738;3;2;;4;6;;;;;Unknown;;;6;5;;;;2;0;2;1;0;0
 2010;11;29;153;6;Federally Administered Tribal Areas;Mohmand district;34,565494;71,477429;2;7;6;14;153;;;;;Unknown;;;5;8;;;;0;0;0;0;0;0
 2010;11;29;153;6;Sindh;Karachi;24,891115;67,143311;2;;;14;153;;;;;Unknown;;;5;;;;;1;0;0;0;0;0
 2010;11;29;19;6;Rajshahi;Pabna;24,00658;89,244133;2;;;17;19;;;;;Unknown;;;9;;;;;1;0;1;0;0;0
@@ -12039,7 +12039,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2011;6;29;95;10;Baghdad;Baghdad;33,303566;44,371773;2;;;2;95;;;;;Unknown;;;5;;;;;0;0;0;1;0;0
 2011;6;29;95;10;Baghdad;Baghdad;33,303566;44,371773;2;;;3;95;;;;;Unknown;;;5;;;;;0;0;0;1;0;0
 2011;6;29;228;10;Abyan;Zinjibar;13,129726;45,385571;6;;;14;228;;;;;Al-Qaida in the Arabian Peninsula (AQAP);;;13;;;;;0;0;0;0;0;0
-2011;6;29;130;1;M‚xico;Tultitlan;19,645565;-99,168927;3;;;1;130;;;;;Earth Liberation Front (ELF);;;6;;;;;0;0;0;0;0;0
+2011;6;29;130;1;Mâ€šxico;Tultitlan;19,645565;-99,168927;3;;;1;130;;;;;Earth Liberation Front (ELF);;;6;;;;;0;0;0;0;0;0
 2011;6;29;43;3;Santiago Metropolitan;Santiago;-33,366238;-70,505302;7;;;1;217;;;;;Unknown;;;8;;;;;0;0;0;0;0;0
 2011;6;30;4;6;Kandahar;Kandahar;31,642227;65,66896;1;;;2;4;;;;;Taliban;;;5;;;;;1;0;0;0;0;0
 2011;6;30;4;6;Khost;Gorbaz;33,300747;69,884109;2;;;3;4;;;;;Taliban;;;5;;;;;2;0;0;0;0;0
@@ -13534,7 +13534,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2011;11;0;4;6;Kandahar;Kandahar;31,631083;65,742226;3;;;3;4;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2011;11;1;4;6;Ghazni;Rashidan district;33,69645;68,14658;3;;;3;4;;;;;Taliban;;;6;;;;;3;0;0;0;0;0
 2011;11;1;4;6;Khost;Unknown;33,358508;69,859741;3;;;3;4;14;4;;;Taliban;;;6;;;;;0;0;0;3;0;0
-2011;11;1;43;3;Santiago Metropolitan;Santiago;-33,366238;-70,505302;3;;;10;43;;;;;Comando Aut¢nomo Voltaire Argando¤a;;;6;;;;;0;0;0;0;0;0
+2011;11;1;43;3;Santiago Metropolitan;Santiago;-33,366238;-70,505302;3;;;10;43;;;;;Comando AutÂ¢nomo Voltaire ArgandoÂ¤a;;;6;;;;;0;0;0;0;0;0
 2011;11;1;45;3;Caqueta;Florencia;1,752199;-75,58217;2;;;4;45;;;;;Revolutionary Armed Forces of Colombia (FARC);;;5;;;;;2;0;0;0;0;0
 2011;11;1;92;6;Jammu and Kashmir;Kupwara;34,526179;74,254614;3;;;4;92;14;92;;;Militants;;;6;;;;;0;0;0;5;0;0
 2011;11;1;92;6;Andhra Pradesh;Lammasingi;17,818199;82,492408;7;;;16;92;;;;;Maoists;;;8;;;;;0;0;0;0;0;0
@@ -14503,7 +14503,7 @@ iyear;imonth;iday;country;region;provstate;city;latitude;longitude;attacktype1;a
 2011;12;21;95;10;Diyala;Adhaim;34,239952;44,510111;3;;;4;95;;;;;Unknown;;;6;;;;;0;0;0;1;0;0
 2011;12;21;205;5;Yala;Ban Paror Pateh;6,542387;101,284856;2;;;4;205;14;205;;;Runda Kumpulan Kecil (RKK);;;5;;;;;1;0;0;3;0;0
 2011;12;21;153;6;Khyber Pakhtunkhwa;Shaidu;33,974998;72,182312;3;;;8;153;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
-2011;12;21;11;3;Buenos Aires;Buenos Aires;-34,61768;-58,444435;3;;;14;11;;;;;Core Conspirators for the Extension of Chaos (N£cleo de Conspiradores por la Extensi¢n de Kaos);;;6;;;;;0;0;0;0;0;0
+2011;12;21;11;3;Buenos Aires;Buenos Aires;-34,61768;-58,444435;3;;;14;11;;;;;Core Conspirators for the Extension of Chaos (NÂ£cleo de Conspiradores por la ExtensiÂ¢n de Kaos);;;6;;;;;0;0;0;0;0;0
 2011;12;21;153;6;Khyber Pakhtunkhwa;Jamrud;34,002579;71,382477;3;;;14;153;1;153;;;Abdullah Azzam Brigades;;;6;;;;;0;0;0;1;0;0
 2011;12;21;153;6;Federally Administered Tribal Areas;Karikot;33,772259;73,895241;3;;;1;153;;;;;Unknown;;;6;;;;;0;0;0;0;0;0
 2011;12;21;205;5;Yala;Unknown;6,541147;101,280395;3;2;;3;205;;;;;Runda Kumpulan Kecil (RKK);;;6;5;;;;0;0;0;0;0;0
